@@ -1,6 +1,6 @@
 ## CORSMisconfig
 
-Shell script to check for CORS (Cross Origin Resource Sharing) misconfigurations on web applications. To Read more details about CORS Miconfiguration read my blog post at here [__sec-art.net/cors-misconfig__]()  
+Shell script to check for CORS (Cross Origin Resource Sharing) misconfigurations on web applications. To Read more details about CORS Miconfiguration read my blog post at here [__sec-art.net/cors-misconfig__](https://sec-art.net/2021/12/14/cors-misconfiguration-vulnerability-explained-owasp-top-10-2021-broken-access-control/)  
 
 ## Installation 
 
